@@ -17,7 +17,7 @@ Algorithms in Python" course (Aakash N S), alongside my automation-focused work 
 - `10_dynamic_programming/`
 
 ## Progress
-- [ ] Complexity & Big-O
+- [X] Complexity & Big-O
 - [ ] Searching Algorithms
 - [ ] Sorting Algorithms
 - [ ] Recursion
