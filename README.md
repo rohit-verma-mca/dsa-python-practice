@@ -19,8 +19,8 @@ Algorithms in Python" course (Aakash N S), alongside my automation-focused work 
 ## Progress
 - [X] Complexity & Big-O
 - [X] Searching Algorithms
-- [ ] Sorting Algorithms
-- [ ] Recursion
+- [X] Sorting Algorithms
+- [X] Recursion
 - [ ] Linked Lists
 - [ ] Stacks & Queues
 - [ ] Hashing
