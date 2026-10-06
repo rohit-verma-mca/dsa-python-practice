@@ -22,7 +22,7 @@ Algorithms in Python" course (Aakash N S), alongside my automation-focused work 
 - [X] Sorting Algorithms
 - [X] Recursion
 - [X] Linked Lists
-- [ ] Stacks & Queues
+- [X] Stacks & Queues
 - [ ] Hashing
 - [ ] Trees
 - [ ] Graphs
