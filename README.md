@@ -23,7 +23,7 @@ Algorithms in Python" course (Aakash N S), alongside my automation-focused work 
 - [X] Recursion
 - [X] Linked Lists
 - [X] Stacks & Queues
-- [ ] Hashing
+- [X] Hashing
 - [ ] Trees
 - [ ] Graphs
 - [ ] Dynamic Programming
