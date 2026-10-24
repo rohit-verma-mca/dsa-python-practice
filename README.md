@@ -25,7 +25,7 @@ Algorithms in Python" course (Aakash N S), alongside my automation-focused work 
 - [X] Stacks & Queues
 - [X] Hashing
 - [X] Trees
-- [ ] Graphs
+- [X] Graphs
 - [ ] Dynamic Programming
 
 ## Source
